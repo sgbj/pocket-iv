@@ -1,0 +1,10 @@
+{
+  "name": "PocketIV",
+  "private": "true",
+  "devDependencies": {
+    "ionic": "driftyco/ionic-bower#1.3.1"
+  },
+  "dependencies": {
+    "es6-shim": "^0.35.1"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "pocketiv",
+  "app_id": "io.batary.pocketiv",
+  "gulpStartupTasks": [
+    "sass",
+    "watch"
+  ],
+  "watchPatterns": [
+    "www/**/*",
+    "!www/lib/**/*"
+  ]
+}
